@@ -1,0 +1,13 @@
+{
+  "name": "opal-loader",
+  "version": "0.0.1",
+  "author": "Matt Dziuban",
+  "description": "Opal loader module for webpack",
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mrdziuban/opal-loader"
+  },
+  "license": "UNLICENSED"
+}
