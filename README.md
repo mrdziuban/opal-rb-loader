@@ -1,5 +1,7 @@
 # Opal Webpack loader
 
+[![npm](https://img.shields.io/npm/v/opal-rb-loader.svg)](https://www.npmjs.com/package/opal-rb-loader)
+
 ### Usage
 
 This is a simple Webpack loader that shells out to [Opal](https://github.com/opal/opal). It was built as an
