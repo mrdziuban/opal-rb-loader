@@ -9,5 +9,6 @@
     "type": "git",
     "url": "git@github.com:mrdziuban/opal-loader"
   },
-  "license": "UNLICENSED"
+  "license": "MIT",
+  "main": "index.js"
 }
