@@ -1,6 +1,6 @@
 {
   "name": "opal-rb-loader",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Matt Dziuban",
   "description": "Opal loader module for webpack",
   "dependencies": {

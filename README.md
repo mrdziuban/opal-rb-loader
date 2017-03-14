@@ -9,7 +9,7 @@ bootstrapped copy of the Opal compiler was too slow.
 To use it, first install the package:
 
 ```bash
-$ npm install --save opal-loader
+$ npm install --save opal-rb-loader
 ```
 
 then configure the loader in your Webpack config:
@@ -19,7 +19,7 @@ module.exports = {
   // ...
   module: {
     rules: [
-      { test: /\.rb$/, loader: 'opal-loader' },
+      { test: /\.rb$/, loader: 'opal-rb-loader' },
       // ...
     ]
   }
@@ -37,7 +37,7 @@ to the top of your Ruby files. This option defaults to true. To disable includin
 query:
 
 ```js
-{ test: /\.rb$/, loader: 'opal-loader?includeOpal=false' },
+{ test: /\.rb$/, loader: 'opal-rb-loader?includeOpal=false' },
 ```
 
 ### Installing Opal
